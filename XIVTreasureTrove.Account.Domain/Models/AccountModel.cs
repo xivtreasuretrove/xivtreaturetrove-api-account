@@ -44,7 +44,7 @@ namespace XIVTreasureTrove.Account.Domain.Models
         public string ImageUri { get; set; } = "https://bulma.io/images/placeholders/256x256.png";
 
         /// <summary>
-        /// 
+        /// The Account 'Validate' method
         /// </summary>
         /// <param name="validationContext"></param>
         /// <returns></returns>
