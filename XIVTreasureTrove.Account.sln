@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIVTreasureTrove.Account.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIVTreasureTrove.Account.Testing", "XIVTreasureTrove.Account.Testing\XIVTreasureTrove.Account.Testing.csproj", "{FF5E0D21-D69B-4ABD-9848-9DA6C1981827}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIVTreasureTrove.Account.Service", "XIVTreasureTrove.Account.Service\XIVTreasureTrove.Account.Service.csproj", "{1FE7930E-FB36-4152-B574-294FA93A569C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FF5E0D21-D69B-4ABD-9848-9DA6C1981827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5E0D21-D69B-4ABD-9848-9DA6C1981827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5E0D21-D69B-4ABD-9848-9DA6C1981827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE7930E-FB36-4152-B574-294FA93A569C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE7930E-FB36-4152-B574-294FA93A569C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE7930E-FB36-4152-B574-294FA93A569C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE7930E-FB36-4152-B574-294FA93A569C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
